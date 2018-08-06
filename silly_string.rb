@@ -3,7 +3,7 @@
 
 your_favorite_word = "happy"
 
-puts "My favorite word happy"
+puts "My favorite word is #{happy}"
 
 # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
@@ -19,7 +19,7 @@ lowercased_phrase = phrase # Put a . after phrase and use a String method.
 
 puts lowercased_phrase
 
-IM_NOT_SHOUTING.downcase
+IM_NOT_SHOUTING.downcase 
 
 # Challenge 4: Count how many letters are in that big_word
 
