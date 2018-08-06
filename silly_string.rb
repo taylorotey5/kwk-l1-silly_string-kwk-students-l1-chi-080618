@@ -18,7 +18,7 @@ phrase = "IM NOT SHOUTING"
 lowercased_phrase = phrase # Put a . after phrase and use a String method.
 
 puts lowercased_phrase 
-#IM_NOT_SHOUTING.downcase 
+#IM NOT SHOUTING.downcase 
 
 # Challenge 4: Count how many letters are in that big_word
 
