@@ -19,7 +19,7 @@ lowercased_phrase = phrase # Put a . after phrase and use a String method.
 
 puts lowercased_phrase
 
-IM_NOT_SHOUTING.downcase 
+#IM_NOT_SHOUTING.downcase. 
 
 # Challenge 4: Count how many letters are in that big_word
 
@@ -29,9 +29,9 @@ letter_count = big_word # Put a . after big_word and use a String method.
 
 puts "There are #{letter_count} in #{big_word}"
 
-supercalifragilisticexpialidocious.length
+#supercalifragilisticexpialidocious.length.
 
-# Challenge 5: Add "wow" and "mom" to big_word
+Challenge 5: Add "wow" and "mom" to big_word
 
 bigger_word = big_word # Use String concatenation to add "wow" and "mom" to big_word
 
@@ -39,7 +39,7 @@ new_letter_count = bigger_word.size
 
 puts "There are now #{new_letter_count} in #{bigger_word}"
 
-wom+mom
+#wom+mom
 
 # Challenge 6: Capitalize this sentence properly
 
@@ -47,7 +47,7 @@ proper_sentence = "i really like programming." # Put a . after the string to cap
 
 puts proper_sentence
 
-i_really_like_programming.capitalize
+#i_really_like_programming.capitalize.
 
 # Challenge 7: String Switcheroo
 sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"
