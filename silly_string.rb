@@ -3,7 +3,7 @@
 
 your_favorite_word = "happy"
 
-puts "My favorite word is #{happy}"
+puts "My favorite word is #{your_favorite_word}"
 
 # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
@@ -56,3 +56,4 @@ sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples 
 sentence = sentence # Add your gsub chain here
 
 puts sentence
+
